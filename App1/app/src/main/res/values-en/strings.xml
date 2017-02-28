@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App1</string>
+    <string name="nom"> Entrez votre nom :</string>
+    <string name="prenom">Entrez votre prénom :</string>
+    <string name="valider">Valider</string>
+    <string name="annuler">Annuler</string>
+</resources>

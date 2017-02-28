@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:weightSum="1">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <ImageButton
+            android:id="@+id/imageButtonEnregistrer"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:background="@color/vert"
+            android:contentDescription="Enregistrement"
+            android:src="@android:drawable/ic_btn_speak_now"
+            android:layout_margin="10dp" />
+
+        <ImageButton
+            android:id="@+id/imageButtonEcouter"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:background="@color/vert"
+            android:contentDescription="Ecoute"
+            android:src="@android:drawable/ic_media_play"
+            android:layout_margin="10dp"/>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/textViewMessage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Message"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <ImageButton
+        android:id="@+id/imageButtonSpeaker"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:background="@color/vert"
+        android:contentDescription="Ecoute"
+        android:src="@drawable/speaker_icon"
+        android:layout_margin="10dp"/>
+
+</LinearLayout>

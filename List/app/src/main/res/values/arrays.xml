@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="fonctions">
+        <item>Employé</item>
+        <item>Cadre</item>
+        <item>Cadre supérieur</item>
+    </string-array>
+
+    <string-array name="auteurs">
+        <item>Jacques</item>
+        <item>Bertrand</item>
+        <item>Monique</item>
+        <item>Pascal</item>
+        <item>Augustin</item>
+    </string-array>
+
+</resources>

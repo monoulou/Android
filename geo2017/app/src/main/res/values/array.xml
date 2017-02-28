@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="items_geolocalisation">
+        <item>Fournisseurs réseaux</item>
+        <item>Tests Réseaux</item>
+        <item>Géolocalisation WiFi</item>
+        <item>Géolocalisation GPS</item>
+        <item>Géocodage</item>
+        <item>Google Map statique</item>
+        <item>Google Map dynamique</item>
+        <item>Google Map plus</item>
+    </string-array>
+
+</resources>

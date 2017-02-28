@@ -1,0 +1,10 @@
+/* android.css */
+body{margin: 0 auto; font: Verdana, Arial, sans-serif; background: white; width: 100%;}
+article{margin: 5px auto; width: 100%; text-align: center;}
+h3{padding: 5px; background-color: greenyellow; color: dimgray; text-align: center;}
+a{color: gray;}
+form{background: lightgray; margin: 5px; padding: 5px;}
+.etiquette{display: block; color: black; text-align: left;}
+.textView{display: block; color: gray;}
+.editText {display: block; color: black;}
+.button{display: block; background-color: greenyellow; color: white;}

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SqLite</string>
+    <string name="cp">Cp</string>
+    <string name="ville">Ville</string>
+    <string name="idpays">Code Pays</string>
+    <string name="message">Message</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">cinescope</string>
+    <string name="tous_les_films">Tous Les Films</string>
+    <string name="box_office">Box Office</string>
+    <string name="hit_parade">Hit parade du public</string>
+    <string name="avis_critique">Avis des critiques</string>
+    <string name="films_nouveaux">Nouveauté</string>
+    <string name="salles_paris">Salles de Paris</string>
+    <string name="salle_peripherie">Salle de peripherie</string>
+    <string name="image">Une image</string>
+</resources>
